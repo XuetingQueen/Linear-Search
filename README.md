@@ -90,7 +90,6 @@ If E≠T, Print put: There is no target in line.<br>
 
 
 
-https://github.com/user-attachments/assets/af2f228c-c15c-4d2b-b2c6-3c7c48cbce05
 
 
 
