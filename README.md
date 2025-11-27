@@ -9,6 +9,10 @@ I choose linear search, because I think it is straightforward to understand, and
 
 
 
+https://github.com/user-attachments/assets/cbb14bcc-ac1c-4d7a-b9a2-d1b831d34253
+
+
+
 
 ## Problem Breakdown & Computational Thinking (You can add a flowchart and write the
 four pillars of computational thinking briefly in bullets)
