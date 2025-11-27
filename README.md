@@ -64,28 +64,8 @@ If E≠T, Print put: There is no target in line.<br>
 
 ## Steps to Run
 
-5 numbers are in a line, such as A, B, C, D, E. the target is T.
-( -100<A, B, C, D, E, T<100)
-Step 1:
-Pick up the 1st element (A) from the line and compare it with the target (T).
-If A==T. we are done. Print put: The target is in position 1.
-If A≠T, we do the step 2.
-Step 2:
-Pick up the 2nd element (B) from the line and compare it with the target (T). 
-If B==T. we are done. Print put: The target is in position 2.
-If B≠T, we do the step 3.
-Step 3:
-Pick up the 3rd element (C) from the line and compare it with the target (T). 
-If C==T. we are done. Print put: The target is in position 3.
-If C≠T, we do the step 4.
-Step 4:
-Pick up the 4th element (D) from the line and compare it with the target (T). 
-If D==T. we are done. Print put: The target is in position 4.
-If D≠T, we do the step 5.
-Step 5:
-Pick up the 5th element (E) from the line and compare it with the target (T).
-If E==T. we are done. Print put: The target is in position 5.
-If E≠T, Print put: There is no target in line.
+1. download <img width="312" height="296" alt="image" src="https://github.com/user-attachments/assets/36aa5a66-7510-4326-a87b-7edb592ab463" />
+
 
 ## Hugging Face Link
 
