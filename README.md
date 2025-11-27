@@ -64,8 +64,12 @@ If E≠T, Print put: There is no target in line.<br>
 
 ## Steps to Run
 
-1. download <img width="312" height="296" alt="image" src="https://github.com/user-attachments/assets/36aa5a66-7510-4326-a87b-7edb592ab463" />
+1. download  Anaconda-Navigator <br>
+<img width="312" height="296" alt="image" src="https://github.com/user-attachments/assets/36aa5a66-7510-4326-a87b-7edb592ab463" /><br>
 
+2. install Anaconda-Navigator <br>
+
+3. open <br>
 
 ## Hugging Face Link
 
