@@ -64,6 +64,10 @@ If E≠T, Print put: There is no target in line.<br>
 
 ## Steps to Run
 
+Here are two ways to run the program, I introduce them A and B. <br>
+
+Option <br>
+
 1. download  "Anaconda-Navigator" <br>
 <img width="312" height="296" alt="image" src="https://github.com/user-attachments/assets/36aa5a66-7510-4326-a87b-7edb592ab463" /><br>
 
@@ -80,11 +84,13 @@ If E≠T, Print put: There is no target in line.<br>
 
 6. click " shift + trturn"<br>
 
-7. it is done as shown <br>
+7. it is done as shown above<br>
 
-8. otherwise,  running on local URL:  http://127.0.0.1:7866
+Option B <br>
 
-9. you can see 
+1. otherwise,  running on local URL:  http://127.0.0.1:7866
+
+2. you can see 
 
 <img width="2634" height="962" alt="image" src="https://github.com/user-attachments/assets/225d19de-e24f-43e0-a400-66fadf7d7111" />
 
