@@ -1,22 +1,27 @@
 # Linear-Search
+<br>
 project for CISC 121 fall 2025
+<br>
 
 # Algorithm Name
+<br>
 linear search.
+<br>
 I choose linear search, because I think it is straightforward to understand, and I can finish the project smoothly and successfully.
+<br>
 
-## Demo video/gif/screenshot of test
+## Demo video/gif/screenshot of test<br>
 
 
 
 
 https://github.com/user-attachments/assets/a556cbd7-2a31-49f3-93a7-6096518626a0
-
+<br>
 
 
 
 ## Problem Breakdown & Computational Thinking (You can add a flowchart and write the four pillars of computational thinking briefly in bullets)
-
+<br>
 
 
 
@@ -31,18 +36,18 @@ https://github.com/user-attachments/assets/a556cbd7-2a31-49f3-93a7-6096518626a0
 4) we need to test the public link. <br>
 
 2. Pattern Recognition
-
+<br>
 check the numbers, if the numbers are between -100 and 100, then proceed. <br>
 
 otherwise, print out: "error". <br>
 
 
 3. Abstraction
-    
+    <br>
 Through coding, the computer compares two numbers: one is from the first line box (from the left to right), and the other is from the target box. <br>
 
 4. Algorithm Design
-
+<br>
 5 numbers are in a line, such as A, B, C, D, E. the target is T. <br>
 ( -100<A, B, C, D, E, T<100) <br>
 Step 1: <br>
@@ -69,7 +74,7 @@ If E≠T, Print put: There is no target in line.<br>
 
 
 ## Steps to Run
-
+<br>
 Here are two ways to run the program, I introduce them A and B. <br>
 
 Option <br>
@@ -110,7 +115,7 @@ Option B <br>
 2. 
 
  you can see 
-
+<br>
 <img width="2634" height="962" alt="image" src="https://github.com/user-attachments/assets/225d19de-e24f-43e0-a400-66fadf7d7111" />
 <br>
 
@@ -137,7 +142,7 @@ Then click the "search" button. <br>
 
 
 ## Author & Acknowledgment
-
+<br>
 Xueting Shi<br>
 
 i used Anaconda-Navigator, <br>
