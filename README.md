@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/a556cbd7-2a31-49f3-93a7-6096518626a0
 
 
 1. Decomposition
-
+<br>
 1) we need the coding, and we can get help from AI tools
 <br>
 2) we need test the coding, maybe in jupyter notebook
