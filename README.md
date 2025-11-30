@@ -9,7 +9,8 @@ I choose linear search, because I think it is straightforward to understand, and
 
 
 
-https://github.com/user-attachments/assets/cbb14bcc-ac1c-4d7a-b9a2-d1b831d34253
+
+https://github.com/user-attachments/assets/a556cbd7-2a31-49f3-93a7-6096518626a0
 
 
 
