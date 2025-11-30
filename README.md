@@ -15,7 +15,12 @@ I choose linear search, because I think it is straightforward to understand, and
 
 
 
-https://github.com/user-attachments/assets/a556cbd7-2a31-49f3-93a7-6096518626a0
+
+https://github.com/user-attachments/assets/061c5cb2-7964-4c44-b502-23b6d33e469a
+
+
+
+
 <br>
 
 
